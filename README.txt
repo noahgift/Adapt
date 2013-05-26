@@ -15,24 +15,24 @@ To start Adapt as a web service:
 To exit the web service:
 	Ctrl-C 
 
-
 To run it check out the repo and type:
 
 python cli.py --help
 
-  adapt git:(master) python cli.py --help
-  Usage: adapt [options]
+adapt git:(master) python cli.py --help
+Usage: adapt [options]
 
-           A commandline tool mapper
+A commandline tool mapper
 
-           Options:
-             --version   show program's version number and exit
-               -h, --help  show this help message and exit
-                 --list      
-                   --mybigcmd  
-                     --ip        
+Options:
+
+--version   show program's version number and exit
+-h, --help  show this help message and exit
+--list      
+--mybigcmd  
+--ip        
 
 
-                     ➜  adapt git:(master) python cli.py --ip  
-                     10.0.20.11
+➜  adapt git:(master) python cli.py --ip  
+10.0.20.11
 

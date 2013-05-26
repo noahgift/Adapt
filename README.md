@@ -37,7 +37,7 @@ Options:
 10.0.20.11
 
 
-Picture:
+![Screenshot1](https://raw.github.com/noahgift/Adapt/master/doc/adapt1.png)
 
-https://raw.github.com/noahgift/Adapt/master/doc/adapt1.png
+
 

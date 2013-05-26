@@ -36,3 +36,8 @@ Options:
 ➜  adapt git:(master) python cli.py --ip  
 10.0.20.11
 
+
+Picture:
+
+https://raw.github.com/noahgift/Adapt/master/doc/adapt1.png
+

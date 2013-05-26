@@ -1,3 +1,6 @@
+Intro
+-----------------
+
 This is a prototype of a tool that will take
 unix commands and integrate them automatically
 into a python command line tool.
@@ -17,7 +20,12 @@ To exit the web service:
 
 To run it check out the repo and type:
 
+Example output
+--------------------------
+
+```{python }
 python cli.py --help
+````
 
 adapt git:(master) python cli.py --help
 Usage: adapt [options]
@@ -36,7 +44,8 @@ Options:
 ➜  adapt git:(master) python cli.py --ip  
 10.0.20.11
 
-
+Screenshot
+-------------------
 ![Screenshot1](https://raw.github.com/noahgift/Adapt/master/doc/adapt1.png)
 
 
